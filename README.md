@@ -84,12 +84,12 @@ Thanks to...
 
 
 <p align="left">
-  <a aria-label="Join our channel for updates" href="https://chat.whatsapp.com/HPik6o5GenqDBCosvXW3oe" target="_blank">
+  <a aria-label="Join our channel for updates" href="https://chat.whatsapp.com/HDbRH2rFW7t1SXdMa9vYjD" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 
-***Incase of any issues or requests, contact me  [here](https://wa.me/+254114018035) via WhatsApp.***
+***Incase of any issues or requests, contact me  [here](https://wa.me/+254114305147) via WhatsApp.***
 
 ## DISCLAIMER
 
